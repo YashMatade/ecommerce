@@ -1,0 +1,54 @@
+.para{
+    font-size: 10px;
+    padding-right: 2px;
+}
+.head{
+    padding: 0%;
+}
+.logo{
+    height: 35px;
+}
+.margin-nav{
+    margin-left: 29%;
+    
+}
+.nav-color{
+    background-color: blue;
+}
+.products{
+    width: 2;
+}
+.anchor{
+    text-decoration: none;
+}
+.footer-text{
+    font-size: 10px;
+}
+.footer-color{
+    background-color: rgb(214, 205, 205);
+}
+.navbar-position{
+    position: sticky;
+    top: 0px;
+}
+@media (max-width: 575px){
+     .Extra-small{
+        float: center;
+        width: 100%;
+    }
+    .margin-nav{
+        margin-left: 0%;
+    }
+    .nav-res{
+        background-color: white;
+        color: black;
+    }
+    .head{
+        background-color: blue;
+        color: white;
+    }
+}
+.frooty{
+    width: 500px;
+    height: auto;
+}
